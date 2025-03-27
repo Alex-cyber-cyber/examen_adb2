@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen", "examen\examen.csproj", "{DC32AFBE-E509-4D95-8A07-511B43121C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC32AFBE-E509-4D95-8A07-511B43121C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC32AFBE-E509-4D95-8A07-511B43121C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC32AFBE-E509-4D95-8A07-511B43121C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC32AFBE-E509-4D95-8A07-511B43121C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC713D5-3A7B-4A0C-8575-848A5A3A0658}
+	EndGlobalSection
+EndGlobal
